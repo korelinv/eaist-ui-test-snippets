@@ -1,0 +1,16 @@
+{
+  "name": "eaist-ui-test-snippets",
+  "main": "./lib/eaist-ui-test-snippets",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {},
+  "repository": "https://github.com/atom/eaist-ui-test-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
