@@ -1,17 +1,29 @@
 '.source.feature':
   'Перейти к разделу':
-    'prefix': 'GotoSection'
+    'prefix': 'goto-section'
+    'description': 'Перейти к разделу'
     'body': """
         #перейти к разделу системы <string>
-        #@@GotoSection
+        #@@GotoSection[v1.0.0]
         When Я открываю раздел системы "<string>"
     """
 
+  'Перейти к разделу черезе главную':
+    'prefix': 'goto-anotherSection'
+    'description': 'Перейти к разделу черезе главную'
+    'body': """
+        #перейти к разделу системы <string>
+        #@@GotoAnotherSection[v1.0.0]
+        When Я перехожу на главную страницу
+        Then Я открываю раздел системы "<string>"
+    """
+
   'Перейти к подразделу':
-    'prefix': 'GotoSubsection'
+    'prefix': 'goto-subsection'
+    'description': 'Перейти к подразделу'
     'body': """
         #перейти к подразделу системы <string>
-        #@@GotoSubsection
+        #@@GotoSubsection[v1.0.0]
         Then Я выбираю в меню "<string>", "<string>"
         Then Я ожидаю, что заголовок содержит "<string>"
     """
