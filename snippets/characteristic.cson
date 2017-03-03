@@ -1,0 +1,10 @@
+'.source.feature':
+
+		#создаем характеристику
+
+		'new-characteristic':
+				'prefix': 'new-characteristic'
+				'description': 'Новая характеристика'
+				'body':"""
+						
+				"""
