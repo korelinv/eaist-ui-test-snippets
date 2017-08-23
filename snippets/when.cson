@@ -1,0 +1,91 @@
+'.source.feature':
+
+  'goto-main-page':
+    'prefix': 'goto-main-page'
+    'description': 'Перейти на главную страницу'
+    'body': 'Перейти на главную страницу'
+
+  'goto-section':
+    'prefix': 'goto-section'
+    'description': 'Перейти в раздел "<Name>"'
+    'body': 'Перейти в раздел "<Name>"'
+
+  'wait':
+    'prefix': 'wait'
+    'description': 'Подождать <N> секунд'
+    'body': 'Подождать <N> секунд'
+
+  'click-button':
+    'prefix': 'click-button'
+    'description': 'Нажать на кнопку "<Name>"'
+    'body': 'Нажать на кнопку "<Name>"'
+
+  'click-link':
+    'prefix': 'click-link'
+    'description': 'Нажать на ссылку "<Name>"'
+    'body': 'Нажать на ссылку "<Name>"'
+
+  'click-checkbox':
+    'prefix': 'click-checkbox'
+    'description': 'Нажать на чекбокс "<Name>"'
+    'body': 'Нажать на чекбокс "<Name>"'
+
+  'click-radiobutton':
+    'prefix': 'click-radiobutton'
+    'description': 'Нажать на радиокнопку "<Name>"'
+    'body': 'Нажать на радиокнопку "<Name>"'
+
+  'click-value':
+    'prefix': 'click-value'
+    'description': 'Нажать на значение "<Value>"'
+    'body': 'Нажать на значение "<Value>"'
+
+  'click-row':
+    'prefix': 'click-row'
+    'description': 'Нажать на <N> строку'
+    'body': 'Нажать на <N> строку'
+
+  'fill-field':
+    'prefix': 'fill-field'
+    'description': 'Заполнить поле "<Name>" значением "<Value>"'
+    'body': 'Заполнить поле "<Name>" значением "<Value>"'
+
+  'fill-filter':
+    'prefix': 'fill-filter'
+    'description': 'Заполнить фильтр "<Name>" значением "<Value>"'
+    'body': 'Заполнить фильтр "<Name>" значением "<Value>"'
+
+  'fill-textarea':
+    'prefix': 'fill-textarea'
+    'description': 'Заполнить текстовый блок "<Name>" значением "<Value>"'
+    'body': 'Заполнить текстовый блок "<Name>" значением "<Value>"'
+
+  'fill-ckeditor':
+    'prefix': 'fill-ckeditor'
+    'description': 'Заполнить текстовый редактор "<Name>" значением "<Value>"'
+    'body': 'Заполнить текстовый редактор "<Name>" значением "<Value>"'
+
+  'fill-select':
+    'prefix': 'fill-select'
+    'description': 'Выбрать "<Value>" в списке "<Name>"'
+    'body': 'Выбрать "<Value>" в списке "<Name>"'
+
+  'upload-file':
+    'prefix': 'upload-file'
+    'description': 'Загрузить файл "<FileName>" в поле "<Name>"'
+    'body': 'Загрузить файл "<FileName>" в поле "<Name>"'
+
+  'choose-in-filter':
+    'prefix': 'choose-in-filter'
+    'description': 'Выбрать в фильтре "<Name>" пункт "<Value>'
+    'body': 'Выбрать в фильтре "<Name>" пункт "<Value>"'
+
+  'fill-calendar':
+    'prefix': 'fill-calendar'
+    'description': 'Выбрать дату "<Value>" в календаре "<Name>"'
+    'body': 'Выбрать дату "<Value>" в календаре "<Name>"'
+
+  'save-kpgz':
+    'prefix': 'save-kpgz'
+    'description': 'Сохранить новый КПГЗ'
+    'body': 'Сохранить новый КПГЗ'
