@@ -1,0 +1,21 @@
+'.source.feature':
+
+  'login-as-normal':
+    'prefix': 'login-as-normal'
+    'description': 'Авторизоваться как пользователь "<User>"'
+    'body': 'Авторизоваться как пользователь "<User>"'
+
+  'login-as-generated':
+    'prefix': 'login-as-generated'
+    'description': 'Авторизоваться как сгенерированный пользователь "<User>"'
+    'body': 'Авторизоваться как сгенерированный пользователь "<User>"'
+
+  'logout':
+    'prefix': 'logout'
+    'description': 'Выйти из системы'
+    'body': 'Выйти из системы'
+
+  'self-registration':
+    'prefix': 'self-registration'
+    'description': 'Перейти к форме саморегистрации'
+    'body': 'Перейти к форме саморегистрации'

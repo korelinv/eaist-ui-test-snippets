@@ -1,0 +1,51 @@
+'.source.feature':
+
+  'page-title':
+    'prefix': 'page-title'
+    'description': 'Заголовок страницы должен быть "<Title>"'
+    'body': 'Заголовок страницы должен быть "<Title>"'
+
+  'title-is-visible':
+    'prefix': 'title-is-visible'
+    'description': 'Заголовок "<Title>" должен быть виден'
+    'body': 'Заголовок "<Title>" должен быть виден'
+
+  'value-is-present':
+    'prefix': 'value-is-present'
+    'description': 'Значение "<Value>" должно присутствовать'
+    'body': 'Значение "<Value>" должно присутствовать'
+
+  'table-has-elements':
+    'prefix': 'table-has-elements'
+    'description': 'В таблице "<Name>" должно быть <N> элементов'
+    'body': 'В таблице "<Name>" должно быть <N> элементов'
+
+  'block-has-elements':
+    'prefix': ''
+    'description': 'В блоке "<Name>" должно быть <N> элементов'
+    'body': 'В блоке "<Name>" должно быть <N> элементов'
+
+  'radiobutton-has-value':
+    'prefix': 'radiobutton-has-value'
+    'description': 'Радиокнопка "<Name>" должна быть установлена в положение "<Value>"'
+    'body': 'Радиокнопка "<Name>" должна быть установлена в положение "<Value>"'
+
+  'field-is-disabled':
+    'prefix': 'field-is-disabled'
+    'description': 'Поле "<Name>" должно быть заблокировано'
+    'body': 'Поле "<Name>" должно быть заблокировано'
+
+  'field-is-enabled':
+    'prefix': 'field-is-enabled'
+    'description': 'Поле "<Name>" должно быть активно'
+    'body': 'Поле "<Name>" должно быть активно'
+
+  'filter-is-disabled':
+    'prefix': 'filter-is-disabled'
+    'description': 'Фильтр "<Name>" должен быть заблокирован'
+    'body': 'Фильтр "<Name>" должен быть заблокирован'
+
+  'filter-is-enabled':
+    'prefix': 'filter-is-enabled'
+    'description': 'Фильтр "<Name>" должен быть активен'
+    'body': 'Фильтр "<Name>" должен быть активен'
