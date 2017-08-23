@@ -1,63 +1,62 @@
 '.source.feature':
 
-    # in selectors
-    'in-field':
-				'prefix': 'in-field'
-				'description': 'в поле "<Name>"'
-				'body': ' в поле "<Name>"'
+  'in-field':
+    'prefix': 'in-field'
+    'description': 'в поле "<Name>"'
+    'body': ' в поле "<Name>"'
 
-    'in-table':
-				'prefix': 'in-table'
-				'description': 'в таблице "<Name>"'
-				'body': ' в таблице "<Name>"'
+  'in-table':
+    'prefix': 'in-table'
+    'description': 'в таблице "<Name>"'
+    'body': ' в таблице "<Name>"'
 
-    'in-block':
-				'prefix': 'in-block'
-				'description': 'в блоке "<Name>"'
-				'body': ' в блоке "<Name>"'
+  'in-block':
+    'prefix': 'in-block'
+    'description': 'в блоке "<Name>"'
+    'body': ' в блоке "<Name>"'
 
-    'in-row':
-				'prefix': 'in-row'
-				'description': 'в строке "<Name>"'
-				'body': ' в строке "<Name>"'
+  'in-row':
+    'prefix': 'in-row'
+    'description': 'в строке "<Name>"'
+    'body': ' в строке "<Name>"'
 
-    'in-column':
-				'prefix': 'in-column'
-				'description': 'в столбце "<Name>"'
-				'body': ' в столбце "<Name>"'
+  'in-column':
+    'prefix': 'in-column'
+    'description': 'в столбце "<Name>"'
+    'body': ' в столбце "<Name>"'
 
-    'in-modal':
-        'prefix': 'in-modal'
-				'description': 'в модальном окне "<Name>"'
-				'body': ' в модальном окне "<Name>"'
+  'in-modal':
+    'prefix': 'in-modal'
+    'description': 'в модальном окне "<Name>"'
+    'body': ' в модальном окне "<Name>"'
 
-    #of selectors
-    'of-field':
-				'prefix': 'of-field'
-				'description': 'поля "<Name>"'
-				'body': ' поля "<Name>"'
+  #of selectors
+  'of-field':
+    'prefix': 'of-field'
+    'description': 'поля "<Name>"'
+    'body': ' поля "<Name>"'
 
-    'of-table':
-				'prefix': 'of-table'
-				'description': 'таблицы "<Name>"'
-				'body': ' таблицы "<Name>"'
+  'of-table':
+    'prefix': 'of-table'
+    'description': 'таблицы "<Name>"'
+    'body': ' таблицы "<Name>"'
 
-    'of-block':
-				'prefix': 'of-block'
-				'description': 'блока "<Name>"'
-				'body': ' блока "<Name>"'
+  'of-block':
+    'prefix': 'of-block'
+    'description': 'блока "<Name>"'
+    'body': ' блока "<Name>"'
 
-    'of-row':
-				'prefix': 'of-row'
-				'description': 'строки "<Name>"'
-				'body': ' строки "<Name>"'
+  'of-row':
+    'prefix': 'of-row'
+    'description': 'строки "<Name>"'
+    'body': ' строки "<Name>"'
 
-    'of-column':
-				'prefix': 'of-column'
-				'description': 'столбца "<Name>"'
-				'body': ' столбца "<Name>"'
+  'of-column':
+    'prefix': 'of-column'
+    'description': 'столбца "<Name>"'
+    'body': ' столбца "<Name>"'
 
-    'of-modal':
-        'prefix': 'of-modal'
-				'description': 'модального окна "<Name>"'
-				'body': ' модального окна "<Name>"'
+  'of-modal':
+    'prefix': 'of-modal'
+    'description': 'модального окна "<Name>"'
+    'body': ' модального окна "<Name>"'
